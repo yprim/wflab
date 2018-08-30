@@ -1,0 +1,6 @@
+\\pascal\Publico\Priscilla Mena Monge\practicas\guía2\guía2\bin\Debug\guía2.exe.config
+\\pascal\Publico\Priscilla Mena Monge\practicas\guía2\guía2\bin\Debug\guía2.exe
+\\pascal\Publico\Priscilla Mena Monge\practicas\guía2\guía2\bin\Debug\guía2.pdb
+\\pascal\Publico\Priscilla Mena Monge\practicas\guía2\guía2\obj\Debug\guía2.exe
+\\pascal\Publico\Priscilla Mena Monge\practicas\guía2\guía2\obj\Debug\guía2.pdb
+\\pascal\Publico\Priscilla Mena Monge\practicas\guía2\guía2\obj\Debug\guía2.csprojResolveAssemblyReference.cache
